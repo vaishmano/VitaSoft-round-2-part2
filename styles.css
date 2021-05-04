@@ -1,0 +1,24 @@
+option {
+  margin: 0.5em;
+}
+
+body{
+	background-color: #e6f2ff;
+}
+
+.form1{
+	color: #330033;
+	text-align: center;
+	margin: 40px auto 20px auto;
+
+}
+
+.col-sm{
+	margin: 10px auto 10px auto;
+}
+
+.head{
+	color: black;
+	padding-bottom: 15px;
+}
+
